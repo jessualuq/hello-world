@@ -7,6 +7,9 @@
     <label for="Name"><b>Enter Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
+     <label for="Name"><b>Enter apellido</b></label>
+    <input type="text" placeholder="Enter apellido" name="apellido" id="apellido" required>
+    <br>
     
     <label for="mobile"><b>Enter mobile</b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
